@@ -12,7 +12,7 @@ Python · PyTorch · TensorFlow · scikit-learn · RDKit · pandas · Matplotlib
 
 ## Selected projects
 
-I have some, but my favorite is **Automated McTN Quantification** — PyTorch-based pipeline for detecting and measuring tumor-cell microtentacles.
+I have some, but my favorite is [typed-smiles](https://github.com/GeronimoCastano/typed-smiles)
 
 ## Links
 
